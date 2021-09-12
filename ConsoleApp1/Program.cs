@@ -7,11 +7,11 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string name = "Kaushik Dutta";
+            string name = "Kaushik Dutta from Canada!";
             StringBuilder sb = new StringBuilder();
             sb.Append(name);
 
-            Console.WriteLine("Hello World " + sb.ToString() + "!");
+            Console.WriteLine("Hello " + sb.ToString());
         }
     }
 }
