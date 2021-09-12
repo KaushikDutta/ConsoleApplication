@@ -7,7 +7,7 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string name = "Kaushik";
+            string name = "Kaushik Dutta";
             StringBuilder sb = new StringBuilder();
             sb.Append(name);
 
